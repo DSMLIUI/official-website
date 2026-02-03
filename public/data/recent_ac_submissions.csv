@@ -166,6 +166,8 @@ longest-consecutive-sequence,2026-01-13 00:59:18,python3,Accepted,57 ms,36.6 MB,
 longest-increasing-subsequence,2025-11-02 23:00:54,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782.0,17.8,1799.8
 longest-palindromic-substring,2025-10-31 19:39:45,python3,Accepted,363 ms,18 MB,madhavan02,363.0,18.0,381.0
 longest-substring-without-repeating-characters,2026-01-04 00:30:35,python,Accepted,23 ms,13.3 MB,madhavan02,,,
+lowest-common-ancestor-of-a-binary-search-tree,2026-02-03 02:43:37,python3,Accepted,75 ms,22.8 MB,madhavan02,,,
+lowest-common-ancestor-of-a-binary-tree,2026-02-03 02:54:47,python3,Accepted,39 ms,24.5 MB,madhavan02,,,
 maximum-level-sum-of-a-binary-tree,2026-01-06 21:50:56,python3,Accepted,26 ms,22.9 MB,madhavan02,,,
 maximum-product-subarray,2025-11-02 00:48:09,python3,Accepted,10 ms,18.5 MB,madhavan02,10.0,18.5,28.5
 median-of-two-sorted-arrays,2026-01-25 23:38:49,python3,Accepted,0 ms,19.7 MB,madhavan02,,,
