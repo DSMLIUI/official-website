@@ -78,6 +78,7 @@ reverse-linked-list,2026-02-03 17:26:25,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_r
 reverse-string-prefix,2026-01-03 14:36:49,python3,Accepted,0 ms,17.5 MB,Jagath_kumar_reddy_k,,,
 rotate-non-negative-elements,2026-01-25 03:03:29,cpp,Accepted,29 ms,310.6 MB,Jagath_kumar_reddy_k,,,
 rotting-oranges,2025-11-16 00:27:54,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0.0,17.1,17.1
+search-insert-position,2026-02-05 21:02:39,cpp,Accepted,0 ms,13.6 MB,Jagath_kumar_reddy_k,,,
 single-number,2026-01-05 00:52:16,cpp,Accepted,0 ms,21 MB,Jagath_kumar_reddy_k,,,
 single-number-ii,2026-01-27 17:02:46,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,,,
 single-number-iii,2026-01-27 17:24:17,cpp,Accepted,1 ms,14.1 MB,Jagath_kumar_reddy_k,,,
