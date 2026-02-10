@@ -75,6 +75,7 @@ range-sum-of-sorted-subarray-sums,2026-01-01 04:27:23,cpp,Accepted,86 ms,27 MB,J
 reconstruct-itinerary,2025-12-25 08:03:18,cpp,Accepted,12 ms,21.1 MB,Jagath_kumar_reddy_k,12.0,21.1,33.1
 redundant-connection,2025-12-18 01:19:47,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4.0,14.4,18.4
 regular-expression-matching,2025-11-02 22:22:03,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3.0,9.1,12.1
+reorder-list,2026-02-10 01:52:06,cpp,Accepted,0 ms,23.8 MB,Jagath_kumar_reddy_k,,,
 restore-finishing-order,2025-09-05 22:14:00,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0.0,50.2,50.2
 reverse-bits,2026-01-28 15:15:51,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,,,
 reverse-linked-list,2026-02-03 17:26:25,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,,,
@@ -157,6 +158,7 @@ binary-tree-zigzag-level-order-traversal,2026-01-20 02:22:56,python3,Accepted,0 
 climbing-stairs,2026-01-06 00:55:00,python3,Accepted,0 ms,16.9 MB,madhavan02,,,
 coin-change,2025-11-01 19:15:24,python3,Accepted,740 ms,18.1 MB,madhavan02,740.0,18.1,758.1
 coin-change-ii,2025-11-04 23:05:03,python3,Accepted,187 ms,17.8 MB,madhavan02,187.0,17.8,204.8
+combinations,2026-02-09 23:30:03,python3,Accepted,79 ms,61.4 MB,madhavan02,,,
 container-with-most-water,2025-11-07 20:58:13,python3,Accepted,35 ms,28.4 MB,madhavan02,35.0,28.4,63.4
 contains-duplicate,2026-01-11 10:05:25,python3,Accepted,12 ms,32.4 MB,madhavan02,,,
 daily-temperatures,2026-01-16 00:42:14,python3,Accepted,107 ms,35.1 MB,madhavan02,,,
@@ -183,6 +185,8 @@ next-greater-element-ii,2026-01-16 03:20:42,python3,Accepted,27 ms,21.1 MB,madha
 online-stock-span,2026-01-16 03:50:12,python3,Accepted,60 ms,24.4 MB,madhavan02,,,
 palindromic-substrings,2025-10-31 20:10:43,python3,Accepted,124 ms,17.4 MB,madhavan02,124.0,17.4,141.4
 path-sum,2026-01-07 23:58:19,python3,Accepted,3 ms,20.3 MB,madhavan02,,,
+permutations,2026-02-09 22:24:14,python3,Accepted,0 ms,19.7 MB,madhavan02,,,
+permutations-ii,2026-02-09 22:50:02,python3,Accepted,3 ms,19.9 MB,madhavan02,,,
 product-of-array-except-self,2026-01-12 22:35:26,python3,Accepted,26 ms,27 MB,madhavan02,,,
 regular-expression-matching,2026-01-10 23:24:55,python3,Accepted,8 ms,19.4 MB,madhavan02,,,
 remove-duplicates-from-sorted-list,2025-11-07 17:50:36,python3,Accepted,0 ms,17.7 MB,madhavan02,0.0,17.7,17.7
@@ -190,6 +194,8 @@ reverse-linked-list,2025-11-07 21:42:53,python3,Accepted,0 ms,18.5 MB,madhavan02
 rotting-oranges,2026-01-12 22:08:08,python3,Accepted,1 ms,19.4 MB,madhavan02,,,
 search-insert-position,2026-01-16 21:20:59,python3,Accepted,0 ms,20 MB,madhavan02,,,
 squares-of-a-sorted-array,2025-11-07 15:21:22,python3,Accepted,7 ms,19.3 MB,madhavan02,7.0,19.3,26.3
+subsets,2026-02-09 21:44:10,python3,Accepted,4 ms,19.7 MB,madhavan02,,,
+subsets-ii,2026-02-09 22:03:10,python3,Accepted,0 ms,19.6 MB,madhavan02,,,
 two-sum,2026-01-01 23:16:48,python3,Accepted,4 ms,18.8 MB,madhavan02,,,
 two-sum-ii-input-array-is-sorted,2025-11-07 20:39:57,python3,Accepted,0 ms,18.5 MB,madhavan02,0.0,18.5,18.5
 unique-paths,2025-11-04 02:32:15,python3,Accepted,3 ms,17.8 MB,madhavan02,3.0,17.8,20.8
