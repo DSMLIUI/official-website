@@ -22,6 +22,7 @@ distinct-subsequences,2026-01-16 17:08:42,cpp,Accepted,37 ms,44.2 MB,Jagath_kuma
 find-median-from-data-stream,2026-01-03 04:03:00,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,,,
 find-the-duplicate-number,2026-01-28 22:05:37,cpp,Accepted,2 ms,65.6 MB,Jagath_kumar_reddy_k,,,
 find-the-xor-of-numbers-which-appear-twice,2026-01-24 18:32:02,cpp,Accepted,0 ms,27.6 MB,Jagath_kumar_reddy_k,,,
+first-element-with-unique-frequency,2026-02-15 02:43:27,cpp,Accepted,170 ms,297.4 MB,Jagath_kumar_reddy_k,,,
 gas-station,2026-01-08 17:56:17,cpp,Accepted,0 ms,109.8 MB,Jagath_kumar_reddy_k,,,
 generate-parentheses,2026-01-05 17:03:51,cpp,Accepted,0 ms,12.9 MB,Jagath_kumar_reddy_k,,,
 group-anagrams,2026-01-04 20:50:03,cpp,Accepted,15 ms,25 MB,Jagath_kumar_reddy_k,,,
@@ -92,6 +93,7 @@ surrounded-regions,2025-12-11 16:12:43,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_r
 swim-in-rising-water,2025-12-27 22:39:47,cpp,Accepted,0 ms,12.7 MB,Jagath_kumar_reddy_k,0.0,12.7,12.7
 target-sum,2025-10-23 02:23:38,cpp,Accepted,30 ms,26 MB,Jagath_kumar_reddy_k,30.0,26.0,56.0
 task-scheduler,2026-01-01 23:05:41,cpp,Accepted,19 ms,42.9 MB,Jagath_kumar_reddy_k,,,
+toggle-light-bulbs,2026-02-15 02:35:02,cpp,Accepted,0 ms,33.1 MB,Jagath_kumar_reddy_k,,,
 top-k-frequent-elements,2026-01-04 21:21:59,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,,,
 two-sum,2026-01-04 20:10:22,cpp,Accepted,0 ms,14.7 MB,Jagath_kumar_reddy_k,,,
 two-sum-ii-input-array-is-sorted,2026-01-04 20:18:25,cpp,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,,,
