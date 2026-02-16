@@ -40,6 +40,7 @@ last-person-to-fit-in-the-bus,2025-12-18 03:39:00,mysql,Accepted,809 ms,0.0B,Jag
 last-stone-weight,2026-01-01 17:13:45,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,,,
 letter-combinations-of-a-phone-number,2026-01-07 00:40:50,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,,,
 linked-list-cycle,2026-02-08 18:03:39,cpp,Accepted,8 ms,11.7 MB,Jagath_kumar_reddy_k,,,
+longest-almost-palindromic-substring,2026-02-15 18:02:24,cpp,Accepted,382 ms,10.3 MB,Jagath_kumar_reddy_k,,,
 longest-common-subsequence,2025-10-15 15:27:35,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39.0,27.6,66.6
 longest-consecutive-sequence,2026-01-05 04:22:29,cpp,Accepted,79 ms,89.1 MB,Jagath_kumar_reddy_k,,,
 longest-increasing-path-in-a-matrix,2026-01-15 19:00:57,cpp,Accepted,0 ms,19.7 MB,Jagath_kumar_reddy_k,,,
@@ -55,6 +56,7 @@ maximum-subarray,2025-12-31 23:14:27,cpp,Accepted,0 ms,71.6 MB,Jagath_kumar_redd
 maximum-sum-with-at-most-k-elements,2025-09-11 01:07:21,cpp,Accepted,95 ms,107.9 MB,Jagath_kumar_reddy_k,95.0,107.9,202.9
 merge-triplets-to-form-target-triplet,2026-01-11 16:48:24,cpp,Accepted,0 ms,150.6 MB,Jagath_kumar_reddy_k,,,
 merge-two-sorted-lists,2026-02-08 17:43:02,cpp,Accepted,0 ms,19.5 MB,Jagath_kumar_reddy_k,,,
+middle-of-the-linked-list,2026-02-15 18:27:11,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,,,
 min-cost-to-connect-all-points,2025-12-26 05:41:36,cpp,Accepted,463 ms,41.4 MB,Jagath_kumar_reddy_k,463.0,41.4,504.4
 minimum-cost-to-acquire-required-items,2025-12-28 18:50:48,cpp,Accepted,0 ms,9.1 MB,Jagath_kumar_reddy_k,0.0,9.1,9.1
 minimum-cost-to-cut-a-stick,2025-12-22 02:05:28,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11.0,14.1,25.1
