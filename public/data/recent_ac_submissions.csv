@@ -8,6 +8,7 @@ coin-change-ii,2025-10-18 04:26:59,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_
 combination-sum,2025-08-26 01:04:39,cpp,Accepted,3 ms,17.9 MB,Jagath_kumar_reddy_k,3.0,17.9,20.9
 combination-sum-ii,2025-09-02 03:57:58,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3.0,16.0,19.0
 contains-duplicate,2026-01-04 19:48:06,cpp,Accepted,47 ms,90.7 MB,Jagath_kumar_reddy_k,,,
+copy-list-with-random-pointer,2026-02-18 04:41:42,cpp,Accepted,4 ms,15.1 MB,Jagath_kumar_reddy_k,,,
 count-caesar-cipher-pairs,2026-01-11 03:44:44,cpp,Accepted,683 ms,107.9 MB,Jagath_kumar_reddy_k,,,
 count-dominant-indices,2026-02-08 02:48:23,cpp,Accepted,0 ms,32.2 MB,Jagath_kumar_reddy_k,,,
 count-residue-prefixes,2026-01-11 02:43:14,cpp,Accepted,3 ms,10.4 MB,Jagath_kumar_reddy_k,,,
@@ -79,6 +80,7 @@ range-sum-of-sorted-subarray-sums,2026-01-01 04:27:23,cpp,Accepted,86 ms,27 MB,J
 reconstruct-itinerary,2025-12-25 08:03:18,cpp,Accepted,12 ms,21.1 MB,Jagath_kumar_reddy_k,12.0,21.1,33.1
 redundant-connection,2025-12-18 01:19:47,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4.0,14.4,18.4
 regular-expression-matching,2025-11-02 22:22:03,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3.0,9.1,12.1
+remove-nth-node-from-end-of-list,2026-02-17 19:54:15,cpp,Accepted,0 ms,14.9 MB,Jagath_kumar_reddy_k,,,
 reorder-list,2026-02-10 01:52:06,cpp,Accepted,0 ms,23.8 MB,Jagath_kumar_reddy_k,,,
 restore-finishing-order,2025-09-05 22:14:00,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0.0,50.2,50.2
 reverse-bits,2026-01-28 15:15:51,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,,,
@@ -90,6 +92,7 @@ search-insert-position,2026-02-05 21:02:39,cpp,Accepted,0 ms,13.6 MB,Jagath_kuma
 single-number,2026-01-05 00:52:16,cpp,Accepted,0 ms,21 MB,Jagath_kumar_reddy_k,,,
 single-number-ii,2026-01-27 17:02:46,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,,,
 single-number-iii,2026-01-27 17:24:17,cpp,Accepted,1 ms,14.1 MB,Jagath_kumar_reddy_k,,,
+solving-questions-with-brainpower,2026-02-17 19:04:13,cpp,Accepted,0 ms,119.8 MB,Jagath_kumar_reddy_k,,,
 subsets-ii,2025-09-04 01:28:01,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0.0,10.6,10.6
 sum-of-two-integers,2026-01-28 21:58:48,cpp,Accepted,0 ms,7.8 MB,Jagath_kumar_reddy_k,,,
 surrounded-regions,2025-12-11 16:12:43,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11.0,20.7,31.7
