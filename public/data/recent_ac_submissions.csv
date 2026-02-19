@@ -1,5 +1,6 @@
 titleSlug,timestamp,lang,statusDisplay,runtime,memory,id,runtime_val,memory_val,weekly_points
 add-binary,2026-02-16 20:29:20,cpp,Accepted,79 ms,48.5 MB,Jagath_kumar_reddy_k,,,
+add-two-numbers,2026-02-19 04:43:16,cpp,Accepted,0 ms,77.2 MB,Jagath_kumar_reddy_k,,,
 best-time-to-buy-and-sell-stock-with-cooldown,2025-10-18 04:06:25,cpp,Accepted,0 ms,15 MB,Jagath_kumar_reddy_k,0.0,15.0,15.0
 cheapest-flights-within-k-stops,2025-12-30 20:12:52,cpp,Accepted,10 ms,21.1 MB,Jagath_kumar_reddy_k,,,
 clone-graph,2025-12-26 17:09:23,cpp,Accepted,0 ms,11.7 MB,Jagath_kumar_reddy_k,0.0,11.7,11.7
