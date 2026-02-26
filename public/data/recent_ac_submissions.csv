@@ -56,6 +56,7 @@ max-area-of-island,2025-11-16 05:05:39,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_re
 maximum-absolute-sum-of-any-subarray,2026-01-01 03:56:08,cpp,Accepted,0 ms,45.1 MB,Jagath_kumar_reddy_k,,,
 maximum-bitwise-xor-after-rearrangement,2026-02-22 03:12:17,cpp,Accepted,91 ms,101.6 MB,Jagath_kumar_reddy_k,,,
 maximum-capacity-within-budget,2026-01-18 18:23:52,cpp,Accepted,89 ms,272.3 MB,Jagath_kumar_reddy_k,,,
+maximum-depth-of-binary-tree,2026-02-25 16:49:48,cpp,Accepted,0 ms,19 MB,Jagath_kumar_reddy_k,,,
 maximum-number-of-non-overlapping-palindrome-substrings,2025-08-28 20:14:30,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0.0,9.0,9.0
 maximum-product-subarray,2025-09-03 00:59:50,cpp,Accepted,1 ms,17.6 MB,Jagath_kumar_reddy_k,1.0,17.6,18.6
 maximum-score-of-a-split,2025-12-28 18:10:51,cpp,Accepted,7 ms,156.1 MB,Jagath_kumar_reddy_k,7.0,156.1,163.1
