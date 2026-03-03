@@ -3,6 +3,8 @@ add-binary,2026-02-16 20:29:20,cpp,Accepted,79 ms,48.5 MB,Jagath_kumar_reddy_k,,
 add-two-numbers,2026-02-19 04:43:16,cpp,Accepted,0 ms,77.2 MB,Jagath_kumar_reddy_k,,,
 balanced-binary-tree,2026-02-28 20:38:23,cpp,Accepted,0 ms,23.1 MB,Jagath_kumar_reddy_k,,,
 best-time-to-buy-and-sell-stock-with-cooldown,2025-10-18 04:06:25,cpp,Accepted,0 ms,15 MB,Jagath_kumar_reddy_k,0.0,15.0,15.0
+binary-tree-level-order-traversal,2026-03-02 17:35:28,cpp,Accepted,0 ms,16.8 MB,Jagath_kumar_reddy_k,,,
+binary-tree-right-side-view,2026-03-02 20:00:08,cpp,Accepted,0 ms,14.9 MB,Jagath_kumar_reddy_k,,,
 cheapest-flights-within-k-stops,2025-12-30 20:12:52,cpp,Accepted,10 ms,21.1 MB,Jagath_kumar_reddy_k,,,
 check-digitorial-permutation,2026-02-22 02:58:30,cpp,Accepted,0 ms,8.3 MB,Jagath_kumar_reddy_k,,,
 clone-graph,2025-12-26 17:09:23,cpp,Accepted,0 ms,11.7 MB,Jagath_kumar_reddy_k,0.0,11.7,11.7
@@ -10,10 +12,12 @@ coin-change,2025-08-26 21:20:01,cpp,Accepted,23 ms,17.9 MB,Jagath_kumar_reddy_k,
 coin-change-ii,2025-10-18 04:26:59,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165.0,42.0,207.0
 combination-sum,2025-08-26 01:04:39,cpp,Accepted,3 ms,17.9 MB,Jagath_kumar_reddy_k,3.0,17.9,20.9
 combination-sum-ii,2025-09-02 03:57:58,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3.0,16.0,19.0
+construct-binary-tree-from-preorder-and-inorder-traversal,2026-03-03 01:45:30,cpp,Accepted,0 ms,27.5 MB,Jagath_kumar_reddy_k,,,
 contains-duplicate,2026-01-04 19:48:06,cpp,Accepted,47 ms,90.7 MB,Jagath_kumar_reddy_k,,,
 copy-list-with-random-pointer,2026-02-18 04:41:42,cpp,Accepted,4 ms,15.1 MB,Jagath_kumar_reddy_k,,,
 count-caesar-cipher-pairs,2026-01-11 03:44:44,cpp,Accepted,683 ms,107.9 MB,Jagath_kumar_reddy_k,,,
 count-dominant-indices,2026-02-08 02:48:23,cpp,Accepted,0 ms,32.2 MB,Jagath_kumar_reddy_k,,,
+count-good-nodes-in-binary-tree,2026-03-02 20:40:44,cpp,Accepted,108 ms,88.2 MB,Jagath_kumar_reddy_k,,,
 count-residue-prefixes,2026-01-11 02:43:14,cpp,Accepted,3 ms,10.4 MB,Jagath_kumar_reddy_k,,,
 count-salary-categories,2025-12-18 04:00:27,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595.0,0.0,1595.0
 counting-bits,2026-01-28 04:58:41,cpp,Accepted,3 ms,11.3 MB,Jagath_kumar_reddy_k,,,
@@ -43,6 +47,7 @@ jump-game-ii,2026-01-07 20:27:26,cpp,Accepted,33 ms,21.7 MB,Jagath_kumar_reddy_k
 k-closest-points-to-origin,2026-01-01 18:00:55,cpp,Accepted,22 ms,61.8 MB,Jagath_kumar_reddy_k,,,
 kth-largest-element-in-a-stream,2025-11-02 23:46:02,cpp,Accepted,0 ms,33 MB,Jagath_kumar_reddy_k,0.0,33.0,33.0
 kth-largest-element-in-an-array,2026-01-01 18:12:30,cpp,Accepted,0 ms,59.4 MB,Jagath_kumar_reddy_k,,,
+kth-smallest-element-in-a-bst,2026-03-02 21:11:09,cpp,Accepted,0 ms,24.3 MB,Jagath_kumar_reddy_k,,,
 largest-even-number,2026-01-04 03:35:51,python3,Accepted,0 ms,17.4 MB,Jagath_kumar_reddy_k,,,
 last-person-to-fit-in-the-bus,2025-12-18 03:39:00,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809.0,0.0,809.0
 last-stone-weight,2026-01-01 17:13:45,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,,,
@@ -122,6 +127,7 @@ unique-paths,2025-10-14 02:24:44,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1
 valid-anagram,2026-01-04 19:55:27,cpp,Accepted,0 ms,9.6 MB,Jagath_kumar_reddy_k,,,
 valid-parenthesis-string,2026-01-21 00:04:27,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,,,
 valid-sudoku,2026-01-05 01:12:48,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,,,
+validate-binary-search-tree,2026-03-02 21:00:46,cpp,Accepted,0 ms,21.9 MB,Jagath_kumar_reddy_k,,,
 vowel-consonant-score,2026-01-18 02:37:08,cpp,Accepted,0 ms,9.3 MB,Jagath_kumar_reddy_k,,,
 word-break,2025-09-07 20:42:37,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0.0,10.4,10.4
 word-ladder,2025-12-30 16:22:10,cpp,Accepted,58 ms,22.7 MB,Jagath_kumar_reddy_k,,,
