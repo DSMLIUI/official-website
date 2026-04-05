@@ -94,6 +94,7 @@ minimum-cost-to-split-into-ones,2026-03-01 02:50:07,cpp,Accepted,11 ms,8.3 MB,Ja
 minimum-deletion-cost-to-make-all-characters-equal,2025-12-21 03:44:39,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363.0,30.5,393.5
 minimum-prefix-removal-to-make-array-strictly-increasing,2026-01-25 02:34:07,cpp,Accepted,0 ms,193.3 MB,Jagath_kumar_reddy_k,,,
 mirror-distance-of-an-integer,2025-12-21 03:34:51,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0.0,17.3,17.3
+mirror-frequency-distance,2026-04-05 02:57:01,cpp,Accepted,28 ms,58.3 MB,Jagath_kumar_reddy_k,,,
 missing-number,2026-01-28 15:49:53,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,,,
 n-queens,2026-01-07 02:23:26,cpp,Accepted,0 ms,10.1 MB,Jagath_kumar_reddy_k,,,
 network-delay-time,2025-12-23 16:50:28,cpp,Accepted,94 ms,48 MB,Jagath_kumar_reddy_k,94.0,48.0,142.0
