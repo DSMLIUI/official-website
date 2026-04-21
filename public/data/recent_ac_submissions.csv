@@ -88,6 +88,7 @@ merge-triplets-to-form-target-triplet,2026-01-11 16:48:24,cpp,Accepted,0 ms,150.
 merge-two-sorted-lists,2026-02-08 17:43:02,cpp,Accepted,0 ms,19.5 MB,Jagath_kumar_reddy_k,,,
 middle-of-the-linked-list,2026-02-15 18:27:11,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,,,
 min-cost-to-connect-all-points,2025-12-26 05:41:36,cpp,Accepted,463 ms,41.4 MB,Jagath_kumar_reddy_k,463.0,41.4,504.4
+minesweeper,2026-04-21 03:10:13,cpp,Accepted,15 ms,16.1 MB,Jagath_kumar_reddy_k,,,
 minimum-capacity-box,2026-03-08 02:34:50,cpp,Accepted,0 ms,23.5 MB,Jagath_kumar_reddy_k,,,
 minimum-cost-to-acquire-required-items,2025-12-28 18:50:48,cpp,Accepted,0 ms,9.1 MB,Jagath_kumar_reddy_k,0.0,9.1,9.1
 minimum-cost-to-cut-a-stick,2025-12-22 02:05:28,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11.0,14.1,25.1
