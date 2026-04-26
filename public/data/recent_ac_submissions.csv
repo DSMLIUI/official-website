@@ -146,6 +146,7 @@ two-sum,2026-01-04 20:10:22,cpp,Accepted,0 ms,14.7 MB,Jagath_kumar_reddy_k,,,
 two-sum-ii-input-array-is-sorted,2026-01-04 20:18:25,cpp,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,,,
 unique-paths,2025-10-14 02:24:44,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1.0,9.4,10.4
 valid-anagram,2026-01-04 19:55:27,cpp,Accepted,0 ms,9.6 MB,Jagath_kumar_reddy_k,,,
+valid-elements-in-an-array,2026-04-26 02:52:56,cpp,Accepted,4 ms,32.1 MB,Jagath_kumar_reddy_k,,,
 valid-parenthesis-string,2026-01-21 00:04:27,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,,,
 valid-sudoku,2026-01-05 01:12:48,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,,,
 validate-binary-search-tree,2026-03-02 21:00:46,cpp,Accepted,0 ms,21.9 MB,Jagath_kumar_reddy_k,,,
