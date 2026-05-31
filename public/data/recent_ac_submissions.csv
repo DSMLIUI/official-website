@@ -34,6 +34,7 @@ design-auction-system,2026-01-18 05:49:59,cpp,Accepted,189 ms,362.9 MB,Jagath_ku
 design-twitter,2026-01-02 20:10:49,cpp,Accepted,1 ms,57.4 MB,Jagath_kumar_reddy_k,,,
 detect-cycles-in-2d-grid,2025-11-18 06:36:44,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127.0,214.9,341.9
 diameter-of-binary-tree,2026-02-28 20:00:30,cpp,Accepted,0 ms,23.6 MB,Jagath_kumar_reddy_k,,,
+digit-frequency-score,2026-05-31 02:33:35,python3,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,,,
 distinct-subsequences,2026-01-16 17:08:42,cpp,Accepted,37 ms,44.2 MB,Jagath_kumar_reddy_k,,,
 dota2-senate,2026-03-11 23:10:24,cpp,Accepted,4 ms,9.6 MB,Jagath_kumar_reddy_k,,,
 find-median-from-data-stream,2026-01-03 04:03:00,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,,,
@@ -261,6 +262,7 @@ squares-of-a-sorted-array,2025-11-07 15:21:22,python3,Accepted,7 ms,19.3 MB,madh
 subsets,2026-02-09 21:44:10,python3,Accepted,4 ms,19.7 MB,madhavan02,,,
 subsets-ii,2026-02-09 22:03:10,python3,Accepted,0 ms,19.6 MB,madhavan02,,,
 surrounded-regions,2026-03-20 01:13:26,python3,Accepted,7 ms,22.4 MB,madhavan02,,,
+target-sum,2026-05-30 19:24:52,python3,Accepted,20 ms,19.3 MB,madhavan02,,,
 two-sum,2026-01-01 23:16:48,python3,Accepted,4 ms,18.8 MB,madhavan02,,,
 two-sum-ii-input-array-is-sorted,2025-11-07 20:39:57,python3,Accepted,0 ms,18.5 MB,madhavan02,0.0,18.5,18.5
 unique-paths,2025-11-04 02:32:15,python3,Accepted,3 ms,17.8 MB,madhavan02,3.0,17.8,20.8
