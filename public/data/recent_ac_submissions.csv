@@ -9,6 +9,7 @@ binary-tree-maximum-path-sum,2026-03-04 02:16:42,cpp,Accepted,0 ms,28.1 MB,Jagat
 binary-tree-right-side-view,2026-03-02 20:00:08,cpp,Accepted,0 ms,14.9 MB,Jagath_kumar_reddy_k,,,
 cheapest-flights-within-k-stops,2025-12-30 20:12:52,cpp,Accepted,10 ms,21.1 MB,Jagath_kumar_reddy_k,,,
 check-digitorial-permutation,2026-02-22 02:58:30,cpp,Accepted,0 ms,8.3 MB,Jagath_kumar_reddy_k,,,
+check-good-integer,2026-06-14 02:38:30,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,,,
 clone-graph,2025-12-26 17:09:23,cpp,Accepted,0 ms,11.7 MB,Jagath_kumar_reddy_k,0.0,11.7,11.7
 coin-change,2025-08-26 21:20:01,cpp,Accepted,23 ms,17.9 MB,Jagath_kumar_reddy_k,23.0,17.9,40.9
 coin-change-ii,2025-10-18 04:26:59,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165.0,42.0,207.0
@@ -204,6 +205,7 @@ special-array-i,2025-02-01 04:12:46,cpp,Accepted,0 ms,27.7 MB,_greenleaf,0.0,27.
 add-two-numbers,2026-01-09 00:30:20,python,Accepted,0 ms,12.6 MB,madhavan02,,,
 balanced-binary-tree,2026-01-15 11:46:56,python,Accepted,4 ms,18 MB,madhavan02,,,
 best-time-to-buy-and-sell-stock,2026-06-13 02:04:28,python3,Accepted,53 ms,28.5 MB,madhavan02,,,
+best-time-to-buy-and-sell-stock-ii,2026-06-13 20:18:43,python3,Accepted,3 ms,20.3 MB,madhavan02,,,
 best-time-to-buy-and-sell-stock-with-cooldown,2025-11-04 15:13:21,python3,Accepted,0 ms,18.2 MB,madhavan02,0.0,18.2,18.2
 binary-search,2026-01-16 21:05:40,python3,Accepted,0 ms,20.7 MB,madhavan02,,,
 binary-tree-inorder-traversal,2026-01-20 00:09:23,python3,Accepted,0 ms,19.5 MB,madhavan02,,,
@@ -228,6 +230,7 @@ find-minimum-in-rotated-sorted-array,2026-01-17 02:26:28,python3,Accepted,0 ms,1
 find-minimum-in-rotated-sorted-array-ii,2026-01-17 02:53:19,python3,Accepted,0 ms,19.6 MB,madhavan02,,,
 house-robber,2026-05-28 11:55:38,python3,Accepted,0 ms,19.1 MB,madhavan02,,,
 house-robber-ii,2026-05-28 12:55:39,python3,Accepted,0 ms,19.3 MB,madhavan02,,,
+increasing-triplet-subsequence,2026-06-13 21:04:28,python3,Accepted,16 ms,38.9 MB,madhavan02,,,
 interleaving-string,2025-11-09 00:18:23,python3,Accepted,52 ms,17.9 MB,madhavan02,52.0,17.9,69.9
 kth-largest-element-in-an-array,2026-02-23 20:34:52,python3,Accepted,64 ms,31.2 MB,madhavan02,,,
 linked-list-cycle,2026-01-18 23:51:34,python3,Accepted,60 ms,22.5 MB,madhavan02,,,
@@ -251,6 +254,7 @@ move-zeroes,2026-01-13 15:42:50,python3,Accepted,9 ms,20.6 MB,madhavan02,,,
 next-greater-element-i,2026-01-16 01:46:18,python3,Accepted,0 ms,19.5 MB,madhavan02,,,
 next-greater-element-ii,2026-01-16 03:20:42,python3,Accepted,27 ms,21.1 MB,madhavan02,,,
 number-of-islands,2026-03-16 03:40:48,python3,Accepted,231 ms,21.5 MB,madhavan02,,,
+number-of-zero-filled-subarrays,2026-06-13 20:41:30,python3,Accepted,39 ms,29.7 MB,madhavan02,,,
 online-stock-span,2026-01-16 03:50:12,python3,Accepted,60 ms,24.4 MB,madhavan02,,,
 pacific-atlantic-water-flow,2026-03-17 23:22:46,python3,Accepted,27 ms,20.8 MB,madhavan02,,,
 palindromic-substrings,2025-10-31 20:10:43,python3,Accepted,124 ms,17.4 MB,madhavan02,124.0,17.4,141.4
@@ -264,6 +268,7 @@ regular-expression-matching,2026-01-10 23:24:55,python3,Accepted,8 ms,19.4 MB,ma
 remove-duplicates-from-sorted-array,2026-06-13 01:33:59,python,Accepted,4 ms,13.9 MB,madhavan02,,,
 remove-duplicates-from-sorted-list,2025-11-07 17:50:36,python3,Accepted,0 ms,17.7 MB,madhavan02,0.0,17.7,17.7
 reverse-linked-list,2025-11-07 21:42:53,python3,Accepted,0 ms,18.5 MB,madhavan02,0.0,18.5,18.5
+rotate-array,2026-06-13 16:53:07,python3,Accepted,6 ms,27.2 MB,madhavan02,,,
 rotting-oranges,2026-01-12 22:08:08,python3,Accepted,1 ms,19.4 MB,madhavan02,,,
 search-in-rotated-sorted-array,2026-06-12 23:44:51,python3,Accepted,0 ms,19.5 MB,madhavan02,,,
 search-insert-position,2026-01-16 21:20:59,python3,Accepted,0 ms,20 MB,madhavan02,,,
