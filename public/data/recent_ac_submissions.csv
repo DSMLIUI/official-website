@@ -202,6 +202,7 @@ rotate-string,2024-11-03 03:12:26,cpp,Accepted,0 ms,7.5 MB,_greenleaf,0.0,7.5,7.
 separate-black-and-white-balls,2024-10-15 04:58:51,cpp,Accepted,30 ms,15.5 MB,_greenleaf,30.0,15.5,45.5
 snakes-and-ladders,2025-05-31 03:58:04,cpp,Accepted,0 ms,17.7 MB,_greenleaf,0.0,17.7,17.7
 special-array-i,2025-02-01 04:12:46,cpp,Accepted,0 ms,27.7 MB,_greenleaf,0.0,27.7,27.7
+3sum,2026-06-17 15:13:39,python3,Accepted,651 ms,22.2 MB,madhavan02,,,
 add-two-numbers,2026-01-09 00:30:20,python,Accepted,0 ms,12.6 MB,madhavan02,,,
 balanced-binary-tree,2026-01-15 11:46:56,python,Accepted,4 ms,18 MB,madhavan02,,,
 best-time-to-buy-and-sell-stock,2026-06-13 02:04:28,python3,Accepted,53 ms,28.5 MB,madhavan02,,,
@@ -252,6 +253,7 @@ maximum-level-sum-of-a-binary-tree,2026-01-06 21:50:56,python3,Accepted,26 ms,22
 maximum-number-of-points-with-cost,2026-06-06 20:56:50,python3,Accepted,259 ms,42.4 MB,madhavan02,,,
 maximum-product-subarray,2025-11-02 00:48:09,python3,Accepted,10 ms,18.5 MB,madhavan02,10.0,18.5,28.5
 median-of-two-sorted-arrays,2026-01-25 23:38:49,python3,Accepted,0 ms,19.7 MB,madhavan02,,,
+merge-sorted-array,2026-06-17 11:55:35,python,Accepted,3 ms,12.4 MB,madhavan02,,,
 min-cost-climbing-stairs,2026-05-28 11:38:33,python3,Accepted,3 ms,19.2 MB,madhavan02,,,
 minimum-path-sum,2026-06-01 20:15:35,python3,Accepted,7 ms,21.7 MB,madhavan02,,,
 minimum-size-subarray-sum,2026-01-15 11:37:22,python3,Accepted,7 ms,30.6 MB,madhavan02,,,
