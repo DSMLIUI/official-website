@@ -276,6 +276,7 @@ recyclable-and-low-fat-products,2026-03-05 04:52:42,mysql,Accepted,512 ms,0.0B,m
 regular-expression-matching,2026-01-10 23:24:55,python3,Accepted,8 ms,19.4 MB,madhavan02,,,
 remove-duplicates-from-sorted-array,2026-06-13 01:33:59,python,Accepted,4 ms,13.9 MB,madhavan02,,,
 remove-duplicates-from-sorted-list,2025-11-07 17:50:36,python3,Accepted,0 ms,17.7 MB,madhavan02,0.0,17.7,17.7
+remove-element,2026-06-29 22:05:10,python,Accepted,0 ms,12.3 MB,madhavan02,,,
 reverse-bits,2026-06-15 14:11:04,python3,Accepted,42 ms,19 MB,madhavan02,,,
 reverse-linked-list,2025-11-07 21:42:53,python3,Accepted,0 ms,18.5 MB,madhavan02,0.0,18.5,18.5
 rotate-array,2026-06-13 16:53:07,python3,Accepted,6 ms,27.2 MB,madhavan02,,,
