@@ -20,6 +20,7 @@ construct-uniform-parity-array-i,2026-03-22 02:35:22,cpp,Accepted,0 ms,30.3 MB,J
 construct-uniform-parity-array-ii,2026-03-22 02:41:28,cpp,Accepted,4 ms,165.8 MB,Jagath_kumar_reddy_k,,,
 contains-duplicate,2026-01-04 19:48:06,cpp,Accepted,47 ms,90.7 MB,Jagath_kumar_reddy_k,,,
 copy-list-with-random-pointer,2026-02-18 04:41:42,cpp,Accepted,4 ms,15.1 MB,Jagath_kumar_reddy_k,,,
+count-and-say,2026-10-17 22:46:54,python3,Accepted,7 ms,19.2 MB,Jagath_kumar_reddy_k,,,
 count-caesar-cipher-pairs,2026-01-11 03:44:44,cpp,Accepted,683 ms,107.9 MB,Jagath_kumar_reddy_k,,,
 count-commas-in-range,2026-03-15 02:32:39,cpp,Accepted,0 ms,8.5 MB,Jagath_kumar_reddy_k,,,
 count-commas-in-range-ii,2026-03-15 02:36:26,python3,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,,,
@@ -63,6 +64,7 @@ kth-smallest-element-in-a-bst,2026-03-02 21:11:09,cpp,Accepted,0 ms,24.3 MB,Jaga
 largest-even-number,2026-01-04 03:35:51,python3,Accepted,0 ms,17.4 MB,Jagath_kumar_reddy_k,,,
 last-person-to-fit-in-the-bus,2025-12-18 03:39:00,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809.0,0.0,809.0
 last-stone-weight,2026-01-01 17:13:45,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,,,
+last-visited-cell-in-a-directional-grid,2026-10-18 02:54:45,python3,Accepted,311 ms,39 MB,Jagath_kumar_reddy_k,,,
 lemonade-change,2026-03-11 23:59:51,cpp,Accepted,4 ms,87.5 MB,Jagath_kumar_reddy_k,,,
 letter-combinations-of-a-phone-number,2026-01-07 00:40:50,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,,,
 limit-occurrences-in-sorted-array,2026-05-24 02:40:04,cpp,Accepted,0 ms,33.3 MB,Jagath_kumar_reddy_k,,,
@@ -98,6 +100,7 @@ minimum-cost-to-acquire-required-items,2025-12-28 18:50:48,cpp,Accepted,0 ms,9.1
 minimum-cost-to-cut-a-stick,2025-12-22 02:05:28,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11.0,14.1,25.1
 minimum-cost-to-split-into-ones,2026-03-01 02:50:07,cpp,Accepted,11 ms,8.3 MB,Jagath_kumar_reddy_k,,,
 minimum-deletion-cost-to-make-all-characters-equal,2025-12-21 03:44:39,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363.0,30.5,393.5
+minimum-deletions-to-make-array-sharp,2026-10-18 02:33:59,python3,Accepted,2 ms,19.3 MB,Jagath_kumar_reddy_k,,,
 minimum-increase-to-maximize-special-indices,2026-04-05 20:42:23,cpp,Accepted,3 ms,139.4 MB,Jagath_kumar_reddy_k,,,
 minimum-prefix-removal-to-make-array-strictly-increasing,2026-01-25 02:34:07,cpp,Accepted,0 ms,193.3 MB,Jagath_kumar_reddy_k,,,
 mirror-distance-of-an-integer,2025-12-21 03:34:51,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0.0,17.3,17.3
