@@ -270,6 +270,7 @@ next-greater-element-i,2026-01-16 01:46:18,python3,Accepted,0 ms,19.5 MB,madhava
 next-greater-element-ii,2026-01-16 03:20:42,python3,Accepted,27 ms,21.1 MB,madhavan02,,,
 number-of-1-bits,2026-06-15 14:02:10,python3,Accepted,3 ms,19.3 MB,madhavan02,,,
 number-of-islands,2026-03-16 03:40:48,python3,Accepted,231 ms,21.5 MB,madhavan02,,,
+number-of-provinces,2026-11-23 21:20:58,python3,Accepted,4 ms,20.4 MB,madhavan02,,,
 number-of-zero-filled-subarrays,2026-06-13 20:41:30,python3,Accepted,39 ms,29.7 MB,madhavan02,,,
 online-stock-span,2026-01-16 03:50:12,python3,Accepted,60 ms,24.4 MB,madhavan02,,,
 pacific-atlantic-water-flow,2026-03-17 23:22:46,python3,Accepted,27 ms,20.8 MB,madhavan02,,,
